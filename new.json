@@ -28,6 +28,50 @@
 		"keepPlayFileKeywords": "",
         "recommend": "1"
 	},{
+{
+      "key": "Taohuazu",
+            "name": "🌸桃花族",
+            "type": 3,
+            "api": "csp_Taohuazu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$http://822thz.com/forum.php$$$null$$$proxy",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            }
+        },
+  {"key":"SeHuaTang","name":"🌹色花堂|磁力","type":3,"api":"csp_SeHuaTang","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$null$$$proxy",
+                        "style": {
+                                "type": "list",
+                                "ratio": 1.1
+                        }
+    },
+{
+      "key": "Taohuazu",
+            "name": "🌸桃花族",
+            "type": 3,
+            "api": "csp_Taohuazu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$http://822thz.com/forum.php$$$null$$$proxy",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            }
+        },
+  {"key":"SeHuaTang","name":"🌹色花堂|磁力","type":3,"api":"csp_SeHuaTang","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$null$$$proxy",
+                        "style": {
+                                "type": "list",
+                                "ratio": 1.1
+                        }
+    },
 		"key": "mogg",
 		"name": "🤹‍♂️木偶┃UC盘",
 		"type": 5,
